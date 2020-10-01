@@ -8,7 +8,7 @@ He obtained his PhD in Marine Molecular Biology and Biochemistry from the former
 
 After moving to Portland Oregon where he worked as a patent clerk at [Kolisch-Hartwell](https://khpatent.com/intellectual-property-law-team/), he worked on biological ontologies with Dr. Melissa Haendel, working on metabolomics with the Undiagnosed Diseases Network with Dr. Tom Metz and Dr. David Kohler.
 
-Since July 2019, Dr. Gourdine has a diversity career supplement grnat from the [NIH](https://grants.nih.gov/grants/guide/contacts/Diversity-Supp_contacts.html),  and joined Dr. Karstens' lab, in which is getting an additional training in Bioinformatics in which he is learning R, Python using human urogenital microbiome while working on metabolomics data.
+Since July 2019, Dr. Gourdine has a diversity career supplement grant from the [NIH](https://grants.nih.gov/grants/guide/contacts/Diversity-Supp_contacts.html),  and joined Dr. Karstens' lab, in which is getting an additional training in Bioinformatics in which he is learning R, Python using human urogenital microbiome while working on metabolomics data.
 
 Dr. Gourdine has been teaching classes on Rigor and Reproducibility modules and seminars with the OHSU library at OHSU.
 
