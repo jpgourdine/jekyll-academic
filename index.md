@@ -12,7 +12,7 @@ Since July 2019, Dr. Gourdine has a diversity career supplement grant from the [
 
 Dr. Gourdine has been teaching classes on Rigor and Reproducibility modules and seminars with the OHSU library at OHSU.
 
-Beside his regular scientific work, Dr. Gourdine is a member of the [_Ankhou_ and _Cahiers Caribéens d'Égyptologie_](http://www.culturediff.org/english/ccde.htm), respectively, multi-disciplinary research group and journal focus on ancient Africa.
+Beside his regular scientific work, Dr. Gourdine is a member of the [_Ankhou_ and _Cahiers Caribéens d'Égyptologie_](http://www.culturediff.org/english/ccde.htm), respectively, multi-disciplinary research group and journal focused on ancient Africa.
 
 ## Highlighted publications:
 
