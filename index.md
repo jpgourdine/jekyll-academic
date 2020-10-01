@@ -2,7 +2,7 @@
 layout: page
 excerpt: "About Me..."
 ---
-**Dr. Jean-Philippe Gourdine** is a Senior Research Associate at the [**Oregon Health & Science University (OHSU)**](https://www.ohsu.edu/people/jean-philippe-gourdine), at the [Oregon Clinical and Translational Institute (OCTRI)](https://www.ohsu.edu/octri) and part of [**Dr. Lisa Karstens lab**](https://twitter.com/lisakarstens?lang=en).
+[**Dr. Jean-Philippe Gourdine**](https://twitter.com/docteurjayp) is a Senior Research Associate at the [**Oregon Health & Science University (OHSU)**](https://www.ohsu.edu/people/jean-philippe-gourdine), at the [Oregon Clinical and Translational Institute (OCTRI)](https://www.ohsu.edu/octri) and part of [**Dr. Lisa Karstens lab**](https://twitter.com/lisakarstens?lang=en).
 
 He obtained his PhD in Marine Molecular Biology and Biochemistry from the former _Université des Antilles et de la Guyane (UAG) now [Université des Antilles](http://www.univ-ag.fr/)_ (University of French Antilles and Guyana) with Dr. Juliette Smith-Ravin in 2006. From 2006 to 2008, he held a research and teaching position in UAG-Martinique and Grenoble at the [_Centre de Recherches sur les Macromolécules Végétales (CERMAV)_](https://www.cermav.cnrs.fr/language/en/the-laboratory/) with Dr. Anne Imberty. Dr. Gourdine was hired at Emory University in Atlanta, Georgia USA in Dr. Richard Cummings' lab ([_now at National Center for Functional Glycomics in Harvard_](https://ncfg.hms.harvard.edu/))
 
