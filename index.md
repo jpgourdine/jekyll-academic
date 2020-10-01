@@ -6,7 +6,7 @@ excerpt: "About Me..."
 
 He obtained his PhD in Marine Molecular Biology and Biochemistry from the former _Université des Antilles et de la Guyane (UAG) now [Université des Antilles](http://www.univ-ag.fr/)_ (University of French Antilles and Guyana) with Dr. Juliette Smith-Ravin in 2006. From 2006 to 2008, he held a research and teaching position in UAG-Martinique and Grenoble at the [_Centre de Recherches sur les Macromolécules Végétales (CERMAV)_](https://www.cermav.cnrs.fr/language/en/the-laboratory/) with Dr. Anne Imberty. Dr. Gourdine was hired at Emory University in Atlanta, Georgia USA in Dr. Richard Cummings' lab ([_now at National Center for Functional Glycomics in Harvard_](https://ncfg.hms.harvard.edu/))
 
-After moving in Portland Oregon where he worked as a patent clerk at [Kolisch-Hartwell](https://khpatent.com/intellectual-property-law-team/), he worked on biological ontologies with Dr. Melissa Haendel, working on metabolomics with the Undiagnosed Diseases Network with Dr. Tom Metz and Dr. David Kohler.
+After moving to Portland Oregon where he worked as a patent clerk at [Kolisch-Hartwell](https://khpatent.com/intellectual-property-law-team/), he worked on biological ontologies with Dr. Melissa Haendel, working on metabolomics with the Undiagnosed Diseases Network with Dr. Tom Metz and Dr. David Kohler.
 
 Since July 2019, Dr. Gourdine has a diversity career supplement grnat from the [NIH](https://grants.nih.gov/grants/guide/contacts/Diversity-Supp_contacts.html),  and joined Dr. Karstens' lab, in which is getting an additional training in Bioinformatics in which he is learning R, Python using human urogenital microbiome while working on metabolomics data.
 
