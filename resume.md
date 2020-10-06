@@ -41,22 +41,30 @@ __OHSU - Oregon Clinical Translational Institute (OCTRI), Portland Oregon, USA__
 ## Awards
 
 `2002`
+
 Regional Council of Guadeloupe Research Grant, French West Indies (FWI) 
+
 `2006`		
+
 Award for the most prolific Ph.D. candidate in Science, UAG
-`2006`	
+
+`2006`
 Travel Grant from the French National Center for Scientific Research and Ministry of Research  
+
 `2010`
 Travel Award from the Glycobiology Society 
+
 `2012`
 Travel Award from the American Society for Biochemistry & Molecular Biology 
+
 `2016`
 Travel Award from the International Society for Biocuration
+
 `2016`
 Best poster presentation, International Conference on Biomedical Ontology 
+
 `2018`
 Best poster presentation, International Conference on Biomedical Ontology
-
 
 ## Publications
 
