@@ -134,8 +134,7 @@ Citations: 34 - Journal impact factor: 4.075
 
 `2017`
 
-•	Mungall CJ, McMurry JA, Köhler S, Balhoff JP, Borromeo C, Brush M, Carbon S, Conlin T, Dunn N, Engelstad M, Foster E, Gourdine JP, […], Haendel MA. The Monarch Initiative: an integrative data and analytic platform connecting phenotypes to genotypes across species. [Nucleic Acids Res. 2017 Jan 4;45(D1):D712-D722.]
-(www.doi.org/10.1093/nar/gkw1128)
+•	Mungall CJ, McMurry JA, Köhler S, Balhoff JP, Borromeo C, Brush M, Carbon S, Conlin T, Dunn N, Engelstad M, Foster E, Gourdine JP, […], Haendel MA. The Monarch Initiative: an integrative data and analytic platform connecting phenotypes to genotypes across species. [Nucleic Acids Res. 2017 Jan 4;45 D1:D712-D722](www.doi.org/10.1093/nar/gkw1128)
 Contribution: I performed curation of molecular phenotypes to HPO and reviewed the manuscript. 
 Citations: 104 - Journal impact factor: 11.561
 
@@ -199,17 +198,16 @@ http://icbo2018.cgrb.oregonstate.edu/abstracts?page=1
 
 `2018`
 
-•	Gourdine JP, Keita S, Gourdine JL, Anselin A. Ancient Egyptian Genomes from Northern Egypt: Further Discussion. OSF Preprints. 2018.
-www.doi.org/10.31219/osf.io/ecwf3
+•	Gourdine JP, Keita S, Gourdine JL, Anselin A. Ancient Egyptian Genomes from Northern Egypt: Further Discussion. [OSF Preprints. 2018](www.doi.org/10.31219/osf.io/ecwf3)
 Contribution: I performed Pop-Affiliator and mtDNA meta-analysis, and wrote the manuscript.
-Downloads: 461 to this date
+Downloads: 880 to this date
 
 `2019`
 
 •	Gourdine JP, Brush MH, Vasilevsky NA, Shefchek K, Köhler S, Matentzoglu N, Munoz-Torres MC, McMurry JA, Zhang XA, Robinson PN, Haendel MA. Zenodo. 2019
 Contribution: I designed the experiment and wrote the manuscript.
 www.doi.org/10.5281/zenodo.3234097
-Downloads: 68 to this date
+Downloads: 93 to this date
 
 
 ### Non-Peer-reviewed articles in French
