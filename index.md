@@ -10,7 +10,7 @@ After moving to Portland Oregon where he worked as a patent clerk at [Kolisch-Ha
 
 Since July 2019, Dr. Gourdine has a diversity career supplement grant from the [NIH](https://grants.nih.gov/grants/guide/contacts/Diversity-Supp_contacts.html), and joined Dr. Karstens' lab, in which is getting  additional trainings in Bioinformatics (learning R, Python) in the context of human urogenital microbiome (urobiome) and metabolomics.
 
-Dr. Gourdine has been teaching classes on Rigor and Reproducibility modules and seminars with the OHSU library at OHSU.
+Dr. Gourdine has been teaching classes on Rigor and Reproducibility modules and seminars with the [OHSU library](https://www.ohsu.edu/library).
 
 Beside his regular scientific work, Dr. Gourdine is a member of the [_Ankhou_ and _Cahiers Caribéens d'Égyptologie_](http://www.culturediff.org/english/ccde.htm), respectively, multi-disciplinary research group and journal focused on ancient Africa.
 
